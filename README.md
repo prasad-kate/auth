@@ -1,0 +1,1 @@
+This project shows how to add different authentication methods to a web app. It includes examples like login with email and password, social login, and passwordless options—making it easier to understand and build secure login systems.
