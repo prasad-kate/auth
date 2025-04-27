@@ -1,1 +1,1 @@
-This project shows how to add different authentication methods to a web app. It includes examples like login with email and password, social login, and passwordless options—making it easier to understand and build secure login systems.
+This project shows how to implement a basic email and password login system in a web app using Vite, React, and TypeScript.
